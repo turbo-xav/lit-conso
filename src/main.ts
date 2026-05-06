@@ -1,1 +1,1 @@
-import 'litExpose/my-element';
+import 'litExpose/todo-list';
